@@ -1,5 +1,4 @@
-# vaadin-microservices-demo-config
+# vaadin microservices social media configuration project
 
-This is the Git repository used by the `config-server` of the  microservices demo application at https://github.com/alejandro-du/vaadin-microservices-demo.
+This is the Git repository used by the `config-server` of the  microservices demo application at https://github.com/yilmazchef/vaadin-microservices-social-media-config.
 
-If you are using Vaadin 8, make sure the `config-server` uses the [vaadin-8](https://github.com/alejandro-du/vaadin-microservices-demo-config/tree/vaadin-8) branch.
